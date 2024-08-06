@@ -2,6 +2,6 @@ import React from 'react'
 
 export default function page() {
   return (
-    <div>page</div>
+    <p className="text-center mt-10 text-5xl">shoes</p>
   )
 }
